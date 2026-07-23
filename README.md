@@ -19,7 +19,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  magic_theme: ^0.0.1
+  magic_theme: ^0.0.3
 ```
 
 ## Usage
