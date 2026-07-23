@@ -1,0 +1,20 @@
+name: magic_theme
+description: "A lightweight, reusable style-bundle for Flutter — define a MagicTheme once and apply its pieces (BoxDecoration, TextStyle, etc.) wherever you need them."
+version: 0.0.1
+homepage: https://github.com/magicworldltd/magic_theme
+repository: https://github.com/magicworldltd/magic_theme
+
+environment:
+  sdk: ^3.12.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
